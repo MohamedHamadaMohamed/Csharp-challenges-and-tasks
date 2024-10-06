@@ -1,0 +1,15 @@
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\bin\Debug\net8.0\task 1.exe
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\bin\Debug\net8.0\task 1.deps.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\bin\Debug\net8.0\task 1.runtimeconfig.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\bin\Debug\net8.0\task 1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\bin\Debug\net8.0\task 1.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.AssemblyInfoInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.AssemblyInfo.cs
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.csproj.CoreCompileInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.sourcelink.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\refint\task 1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\task 1.genruntimeconfig.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\task 1\obj\Debug\net8.0\ref\task 1.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\not net\\eraa soft course\\tasks\\Tasks\\Csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7632447-C325-444B-9D03-0915FB037D09}|..\\taks 1 p2\\taks 1 p2.csproj|e:\\not net\\eraa soft course\\tasks\\tasks\\csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\taks 1 p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E847A402-1A76-45CC-A673-FA90639E36C1}|task 1.csproj|e:\\not net\\eraa soft course\\tasks\\tasks\\csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E847A402-1A76-45CC-A673-FA90639E36C1}|task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\not net\\eraa soft course\\tasks\\Tasks\\Csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\taks 1 p2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\taks 1 p2\\Program.cs",
+              "ToolTip": "E:\\not net\\eraa soft course\\tasks\\Tasks\\Csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\taks 1 p2\\Program.cs",
+              "RelativeToolTip": "..\\taks 1 p2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:39:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\not net\\eraa soft course\\tasks\\Tasks\\Csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\not net\\eraa soft course\\tasks\\Tasks\\Csharp-challenges-and-tasks\\task 1 (30 -8-2024)\\task 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:17:58.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

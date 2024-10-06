@@ -1,0 +1,15 @@
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\bin\Debug\net8.0\taks 1 p2.exe
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\bin\Debug\net8.0\taks 1 p2.deps.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\bin\Debug\net8.0\taks 1 p2.runtimeconfig.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\bin\Debug\net8.0\taks 1 p2.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\bin\Debug\net8.0\taks 1 p2.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.GeneratedMSBuildEditorConfig.editorconfig
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.AssemblyInfoInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.AssemblyInfo.cs
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.csproj.CoreCompileInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.sourcelink.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\refint\taks 1 p2.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\taks 1 p2.genruntimeconfig.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 1 (30 -8-2024)\taks 1 p2\obj\Debug\net8.0\ref\taks 1 p2.dll
