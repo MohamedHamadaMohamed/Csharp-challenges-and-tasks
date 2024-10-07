@@ -1,0 +1,15 @@
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\bin\Debug\net8.0\task 2 p1.exe
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\bin\Debug\net8.0\task 2 p1.deps.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\bin\Debug\net8.0\task 2 p1.runtimeconfig.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\bin\Debug\net8.0\task 2 p1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\bin\Debug\net8.0\task 2 p1.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.GeneratedMSBuildEditorConfig.editorconfig
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.AssemblyInfoInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.AssemblyInfo.cs
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.csproj.CoreCompileInputs.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.sourcelink.json
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\refint\task 2 p1.dll
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.pdb
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\task 2 p1.genruntimeconfig.cache
+E:\not net\eraa soft course\tasks\Tasks\Csharp-challenges-and-tasks\task 2 (6-9-2024)\task 2 p1\obj\Debug\net8.0\ref\task 2 p1.dll
